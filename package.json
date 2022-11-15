@@ -1,6 +1,6 @@
 {
-  "name": "v-mapbox",
-  "version": "1.11.2",
+  "name": "@advisr/v-mapbox",
+  "version": "1.12.0",
   "description": "Mapbox with Vue 💚",
   "types": "types/index.d.ts",
   "main": "dist/v-mapbox.cjs.js",
@@ -119,7 +119,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:geospoc/v-mapbox.git"
+    "url": "git@github.com:advisr-io/v-mapbox.git"
   },
   "private": false,
   "sideEffects": [
